@@ -1,3 +1,3 @@
 # FreoGrella
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fre0Grella&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![FreoGrella's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fre0Grella)](https://github.com/anuraghazra/github-readme-stats)
